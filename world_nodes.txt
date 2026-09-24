@@ -1,0 +1,1 @@
+[('India', 718.0, 201.7), ('Germany', 527.5, 108.1), ('UAE', 653.5, 180.0), ('United Kingdom', 499.7, 106.9), ('United States', 294.4, 136.9), ('Singapore', 788.3, 246.3), ('Australia', 920.0, 344.1)]
